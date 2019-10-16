@@ -1,0 +1,6 @@
+owner=526429211112505364
+prefix=Aplay
+game=هنا الحلا
+stayinchannel=true
+songinstatus=false
+token=NTAyMTY5NDM3NDA4MDY3NTg0.Xadong.Vsi9uoHYqDbNhhKdEBVxngav0wI
